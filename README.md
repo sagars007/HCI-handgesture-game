@@ -4,7 +4,7 @@ Play classics such as super mario bros, the chrome no-internet dino game and bat
 
 Made in **Python 3.6**. Not a standalone exe. Requires Python 3.6 and necessary packages, Python IDE like PyCharm.
 
-Chrome dino currently only works with ![chrome 86](https://www.neowin.net/news/google-chrome-860424075-offline-installer/) and included chrome driver software.
+Chrome dino currently only works with [chrome 86](https://www.neowin.net/news/google-chrome-860424075-offline-installer/) and included chrome driver software.
 
 Play the following games:
 * Super Mario Bros by running the script mario.py
@@ -45,6 +45,6 @@ The screen is split into 2 equal parts vertically. Actions detected:
 * pygame
 * opencv
 
-![Demo](https://drive.google.com/file/d/1LMtnWvqIe02X3QryX5maWkhySHyxMyiH/view?usp=sharing)
+[Demo](https://drive.google.com/file/d/1LMtnWvqIe02X3QryX5maWkhySHyxMyiH/view?usp=sharing)
 
 Contact boss Sagar for help and more details.
