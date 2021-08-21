@@ -47,6 +47,3 @@ The screen is split into 2 equal parts vertically. Actions detected:
 
 [Demo](https://drive.google.com/file/d/1LMtnWvqIe02X3QryX5maWkhySHyxMyiH/view?usp=sharing)
 
-Contact [boss Sagar](mailto:sagarsethu25@gmail.com?subject=Regarding%20github%20repo-%20hci%20handgesture%20game) for help and more details.
-
-[@WhatsApp](https://wa.me/918129534676?text=Boss%20pls%20help%20in%20hci%20project%20lol)
