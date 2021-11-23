@@ -2,7 +2,7 @@
 
 Play classics such as super mario bros, the chrome no-internet dino game and battle city only using hand gestures! No need keyboard or mouse inputs. A fun and futuristic way to revisit the old games.
 
-Made in **Python 3.6**. Not a standalone exe. Requires Python 3.6 and necessary packages, Python IDE, Visual Studio, Visual c++
+Made in **Python 3.6**. Not a standalone exe. Requires Python 3.6+ and necessary packages, Python IDE, Visual Studio, Visual c++
 
 Chrome dino currently only works with [chrome 86](https://www.neowin.net/news/google-chrome-860424075-offline-installer/) and included chrome driver software.
 
