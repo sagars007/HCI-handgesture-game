@@ -45,5 +45,5 @@ The screen is split into 2 equal parts vertically. Actions detected:
 * pygame
 * opencv
 
-[Demo](https://drive.google.com/file/d/1LMtnWvqIe02X3QryX5maWkhySHyxMyiH/view?usp=sharing)
+
 
